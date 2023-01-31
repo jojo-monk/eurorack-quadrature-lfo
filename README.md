@@ -1,2 +1,2 @@
 # eurorack-quadrature-lfo
-Eurorack adaptation yusynth quadrature lfo
+Eurorack adaptation of yusynth quadrature lfo
